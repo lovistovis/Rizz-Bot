@@ -1,11 +1,19 @@
 {
   "words": {
-    "positive": {
+    "positive": [
       "rizz"
-    },
-    "negative": {
-
-    },
+    ],
+    "negative": [
+      "owo",
+      "uwu",
+      ":)",
+      "^^",
+      "._.",
+      ":.D",
+      ":D",
+      ":P",
+      ":c"
+    ],
     "trigger": {
       "love": {
         "chance": 0.05,
