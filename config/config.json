@@ -1,3 +1,31 @@
 {
-  "words"
+  "words": {
+    "positive": {
+      "rizz"
+    },
+    "negative": {
+
+    },
+    "trigger": {
+      "love": {
+        "chance": 0.05,
+        "response": "love"
+      },
+      "älskar": {
+        "chance": 0.05,
+        "response": "love"
+      }
+    }
+  },
+  "responses": {
+    "positive": [
+      "Skibidi rizz! 💦"
+    ],
+    "negative": [
+      "Det där inte inte så skibidi av dig walla!"
+    ],
+    "love": [
+      "Mmmmmm... rizzlern är framme!"
+    ]
+  }
 }
